@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shahbaz Masood
 
-**Tech Lead | Full Stack Developer**
+**Tech Lead | Full Stack Developer | Tech Savvy**
 
 I'm a software engineer with a focus on full stack development and team leadership. I specialize in building scalable web applications using modern technologies and clean architectural patterns.
 
